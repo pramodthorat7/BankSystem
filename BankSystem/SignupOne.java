@@ -12,11 +12,11 @@ public class SignupOne extends JFrame implements ActionListener {
     // Declare variables
     long random;
     JTextField nameTextField, fnameTextField, dobTextField, emailTextField, addressTextField, cityTextField,
-/*             stateTextField, pincodeTextField;
+            stateTextField, pincodeTextField;
     JRadioButton male, female, other, married, unmarried;
     JButton next;
-
-
+    
+/* 
     // Constructor
     SignupOne() {
         setLayout(null);
