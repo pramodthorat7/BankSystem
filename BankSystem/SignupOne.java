@@ -16,11 +16,11 @@ public class SignupOne extends JFrame implements ActionListener {
     JRadioButton male, female, other, married, unmarried;
     JButton next;
     
-/* 
+
     // Constructor
     SignupOne() {
         setLayout(null);
-
+/* 
         // Generate a random application form number
         Random ran = new Random();
         random = Math.abs((ran.nextLong() % 9000L) + 1000L);
