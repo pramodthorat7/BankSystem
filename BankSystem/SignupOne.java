@@ -24,13 +24,13 @@ public class SignupOne extends JFrame implements ActionListener {
         // Generate a random application form number
         Random ran = new Random();
         random = Math.abs((ran.nextLong() % 9000L) + 1000L);
-/*
+
         // Application Form Number Label
         JLabel formno = new JLabel("Application Form No. " + random);
         formno.setFont(new Font("Raleway", Font.BOLD, 38));
         formno.setBounds(140, 20, 600, 40);
         add(formno);
-
+/*
         // Personal Details Header
         JLabel personaldetail = new JLabel("Page 1: Personal Details");
         personaldetail.setFont(new Font("Raleway", Font.BOLD, 22));
