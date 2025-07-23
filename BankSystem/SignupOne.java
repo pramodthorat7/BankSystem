@@ -42,12 +42,12 @@ public class SignupOne extends JFrame implements ActionListener {
         name.setFont(new Font("Raleway", Font.BOLD, 20));
         name.setBounds(100, 150, 100, 30);
         add(name);
-/*
+
         nameTextField = new JTextField();
         nameTextField.setFont(new Font("Raleway", Font.BOLD, 16));
         nameTextField.setBounds(290, 150, 400, 30);
         add(nameTextField);
-
+/*
         // Father's Name Field
         JLabel fname = new JLabel("Father's Name: ");
         fname.setFont(new Font("Raleway", Font.BOLD, 20));
