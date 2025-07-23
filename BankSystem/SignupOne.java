@@ -30,13 +30,13 @@ public class SignupOne extends JFrame implements ActionListener {
         formno.setFont(new Font("Raleway", Font.BOLD, 38));
         formno.setBounds(140, 20, 600, 40);
         add(formno);
-/*
+
         // Personal Details Header
         JLabel personaldetail = new JLabel("Page 1: Personal Details");
         personaldetail.setFont(new Font("Raleway", Font.BOLD, 22));
         personaldetail.setBounds(290, 80, 400, 40);
         add(personaldetail);
-
+/*
         // Name Field
         JLabel name = new JLabel("Name: ");
         name.setFont(new Font("Raleway", Font.BOLD, 20));
