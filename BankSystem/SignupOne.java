@@ -58,13 +58,13 @@ public class SignupOne extends JFrame implements ActionListener {
         fnameTextField.setFont(new Font("Raleway", Font.BOLD, 16));
         fnameTextField.setBounds(290, 200, 400, 30);
         add(fnameTextField);
-/*
+
         // Date of Birth Field
         JLabel dob = new JLabel("Date of Birth: ");
         dob.setFont(new Font("Raleway", Font.BOLD, 20));
         dob.setBounds(100, 250, 150, 30);
         add(dob);
-
+/*
         dobTextField = new JTextField();
         dobTextField.setFont(new Font("Raleway", Font.BOLD, 16));
         dobTextField.setBounds(290, 250, 400, 30);
