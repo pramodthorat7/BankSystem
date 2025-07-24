@@ -64,12 +64,12 @@ public class SignupOne extends JFrame implements ActionListener {
         dob.setFont(new Font("Raleway", Font.BOLD, 20));
         dob.setBounds(100, 250, 150, 30);
         add(dob);
-/*
+
         dobTextField = new JTextField();
         dobTextField.setFont(new Font("Raleway", Font.BOLD, 16));
         dobTextField.setBounds(290, 250, 400, 30);
         add(dobTextField);
-
+/*
         // Gender Field
         JLabel gender = new JLabel("Gender: ");
         gender.setFont(new Font("Raleway", Font.BOLD, 20));
