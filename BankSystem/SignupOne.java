@@ -80,12 +80,12 @@ public class SignupOne extends JFrame implements ActionListener {
         male.setBounds(300, 300, 90, 30);
         male.setBackground(Color.WHITE);
         add(male);
-/*
+
         female = new JRadioButton("Female");
         female.setBounds(450, 300, 90, 30);
         female.setBackground(Color.WHITE);
         add(female);
-
+/*
         other = new JRadioButton("Other");
         other.setBounds(600, 300, 90, 30);
         other.setBackground(Color.WHITE);
