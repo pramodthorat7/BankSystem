@@ -95,7 +95,7 @@ public class SignupOne extends JFrame implements ActionListener {
         gendergroup.add(male);
         gendergroup.add(female);
         gendergroup.add(other);
-
+/*
         // Email Field
         JLabel email = new JLabel("Email Address: ");
         email.setFont(new Font("Raleway", Font.BOLD, 20));
